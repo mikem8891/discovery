@@ -16,6 +16,7 @@ optional = true
 cortex-m = "0.7.3"
 cortex-m-rt = "0.7.0"
 panic-halt = "0.2.0"
+#svd2rust = "0.33.4"
 #rtt-target = { version = "0.3.1", features = ["cortex-m"] }
 #panic-rtt-target = { version = "0.1.2", features = ["cortex-m"] }
 
